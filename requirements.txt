@@ -1,0 +1,11 @@
+Flask==0.10.1
+Flask-HTTPAuth==2.3.0
+Jinja2==2.7.3
+MarkupSafe==0.23
+Werkzeug==0.9.6
+httpauth==0.2
+itsdangerous==0.24
+py==1.4.25
+py2neo==1.6.4
+pytest==2.6.3
+wsgiref==0.1.2
